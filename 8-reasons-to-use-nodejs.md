@@ -23,6 +23,6 @@
    - Does not come with the bells and whistles of some full stack framworks
    - Node.JS can be as slim as you need it to be.
 8. The future is lean.
-   - The futre of web development resides with keeping your server as slim as possible.
+   - The future of web development resides with keeping your server as slim as possible.
    - Your modern day server should be serving JSON and Node.JS does that well.
 
