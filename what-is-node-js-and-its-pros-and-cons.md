@@ -69,3 +69,4 @@
   - Core products are stable but the rest of the NPM registry is poorly structured and documented.
 
 ### Few experienced developers
+- Not many JavaScript developers have a lot of experience on the back end.
