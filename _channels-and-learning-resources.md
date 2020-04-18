@@ -52,7 +52,6 @@
   - Tutorials, Blog
   - JavaScript, React, CSS, Bootstrap, JSON, NPM
   - Free and paid membership
-  - 
 
 ### [Udemy](https://www.udemy.com/)
 - Courses on everything.
