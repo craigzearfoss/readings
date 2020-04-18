@@ -1,0 +1,318 @@
+VIDEOS
+------
+
+WATCHED/COMPLETED
+00:46:08 TypeScript Crash Course - https://www.youtube.com/watch?v=rAy_3SIqT-E
+00:02:59 Why I Left My $100,000+ Job at Google - https://www.youtube.com/watch?v=4KcMdH8qiuk
+02:25:53 Python Tutorials for Beginners - Learn Python Online - https://www.youtube.com/watch?v=yE9v9rt6ziw
+00:11:29 What Can You Do with Python? - The 3 Main Applications - https://www.youtube.com/watch?v=kLZuut1fYzQ
+00:15:59 What Can You Do With Python – Computer Programming (Guide) - https://www.youtube.com/watch?v=kK_2mzBARTU
+00:17:24 Web Development & Making Money - My Story - https://www.youtube.com/watch?v=nJc3YFgujdU
+01:12:45 Web Development In 2020 - A Practical Guide - https://www.youtube.com/watch?v=0pThnRneDjw
+00:09:15 The ugly truth about beginning freelance web development - https://www.youtube.com/watch?v=ZySeam2jziY
+00:08:07 How I went from charging $100 to $10,000+ for a website || Freelance Web Development - https://www.youtube.com/watch?v=fT_muNYfK3g
+00:18:37 What Is A RESTful API? Explanation of REST & HTTP - https://www.youtube.com/watch?v=Q-BpqyOT3a8
+00:17:41 REST vs GraphQL - What's the best kind of API? - https://www.youtube.com/watch?v=PeAOEAmR0D0
+00:14:43 Stateful vs Stateless Applications (Explained by Example) - https://www.youtube.com/watch?v=nFPzI_Qg3FU (Apr 7, 2020)
+00.07.33 DevOps Concepts: Stateless Servers - https://www.youtube.com/watch?v=FmctmpybIKs - DevOps Concepts: Stateless Servers (Apr 7, 2020)
+00:13:14 Understanding State Transfer in REST (Explained by Example) - https://www.youtube.com/watch?v=EKCM1oQQrCM (Apr 7, 2020)
+00:25:45 REST API Pros and Cons (Explained by Example) - https://www.youtube.com/watch?v=M3XQ6yEC51Q (Apr 7, 2020)
+00:15:32 REST API & RESTful Web Services Explained | Web Services Tutorial - https://www.youtube.com/watch?v=LooL6_chvN4 (Apr 7, 2020)
+00:14:30 2020 Top Web Development Trends -https://www.youtube.com/watch?v=Pw8U9l8acPA (Apr 8, 2020)
+00:12:19 Escape Tutorial Hell & Utilize Them In A Better Way - https://www.youtube.com/watch?v=g_aMpyMvQ9k (Apr 8, 2020)
+00:09:19 Learning & Memorizing In Programming - https://www.youtube.com/watch?v=askbjJx-BQg (Apr 8, 2020)
+00:15:51 Learning Outside Of Your Full Time Job & Time Management - https://www.youtube.com/watch?v=Juzo0XUIs2k (Apr 8, 2020)
+00:48:58 How To Not Fail That Technical Interview - S1E4 - https://www.youtube.com/watch?v=jW4dOMjszPk&t=1355s (Apr 8, 2020)
+00:09:33 5 Javascript Projects That will Guarantee You Get Hired | Portfolio Projects - https://www.youtube.com/watch?v=lUUOMdnLBqY (Apr 8, 2020)
+00:10:53 3 Projects You Should Not Have in Web Developers Portfolio | Engineer - https://www.youtube.com/watch?v=HK4oto26VOY (Apr 8, 2020)
+01:30:07 Node.js Crash Course - https://www.youtube.com/watch?v=fBNz5xF-Kx4 (Apr 8, 2020)
+00:03:50 React and the Virtual DOM - https://www.youtube.com/watch?v=BYbgopx44vo (Apr 8, 2020)
+00:12:51 Javascript Closure tutorial ( Closures Explained ) - https://www.youtube.com/watch?v=71AtaJpJHw0 (Apr 9, 2020)
+00:11:54 Why Freelance HORROR Stories Start at fiverr.com (2020 edition) - https://www.youtube.com/watch?v=jcEcGFS-meg (Apr 9, 2020)
+00:12:17 Should you learn PHP in 2020? || Job Opportunities vs Opinion - https://www.youtube.com/watch?v=NNp51W246mk (Apr 10, 2020)
+00:10:55 Should You Learn PHP? - Pros and Cons - https://www.youtube.com/watch?v=j7upFWBKzBQ (Apr 10, 2020)
+00:10:17 Udemy instructors have been red pilled. We are LEAVING! - https://www.youtube.com/watch?v=GI32D1Y63LU (Apr 10, 2020)
+00:08:54 The 1 secret to INSTANTLY upping your web developer game - https://www.youtube.com/watch?v=vXYhw4TWl_U (Apr 10, 2020)
+00:11:34 my wife left me. ("How success destroyed us") - https://www.youtube.com/watch?v=fssFXlNk6vw (Apr 10, 2020)
+00:10:00 Why my wife left me (how our marriage collapsed) - https://www.youtube.com/watch?v=jmONbYqYaRk (Apr 10, 2020)
+01:14:01 Express JS Crash Course - https://www.youtube.com/watch?v=L72fhGm1tfE&t=1s (Apr 11, 2020)
+00:08:24 8 Reasons to Use NodeJS - https://www.youtube.com/watch?v=BKorQQO4xtM (Apr 11, 2020)
+00:08:18 What is Node.JS and its Pros and Cons - https://www.youtube.com/watch?v=2gQG4cFjahw (Apr 11, 2020)
+00:00:27 I got fired from Facebook (for having a YouTube channel). - https://www.youtube.com/watch?v=2pIJoPkh9IU (Apr 11, 2020)
+00:16:35 How I really feel about Traversy Media - https://www.youtube.com/watch?v=iq5nGFzqDbY (Apr 12, 2020)
+00:09:10 Re: Chris Sean, CodingPhase, Traversy Media, Josh Fluke, Louis Rossmann - https://www.youtube.com/watch?v=YS30dd3EyCk (Apr 12, 2020)
+00:14:52 Tech Industry Too Saturated For Developers and Engineers | No More Jobs - https://www.youtube.com/watch?v=87yEdkzJZq4 (Apr 12, 2020)
+00:10:53 Are You Ready to apply to Web Development and Engineering jobs? | Tech Industry - https://www.youtube.com/watch?v=06zPxlwpI98 (Apr 12, 2020)
+00:13:46 Developers Entitlement to Salary 100k - Engineers too.. - https://www.youtube.com/watch?v=vcYx0R5I6Ds (Apr 12, 2020)
+00:13:41 Web & Software Developers Don't Miss This Freelancing Opportunity - https://www.youtube.com/watch?v=Gf3esJeQ8QE (Apr 12, 2020)
+00:10:00 Why I'm so good at coding. - https://www.youtube.com/watch?v=xqgH9j3x2OE (Apr 12, 2020)
+00:11:34 Top signs of an inexperienced programmer - https://www.youtube.com/watch?v=-W_VsLXmjJU (Apr 12, 2020)
+00:07:14 DATA STRUCTURES you MUST know (as a Software Developer) - https://www.youtube.com/watch?v=sVxBVvlnJsM (Apr 12, 2020)
+00:12:33 7 Habits of Highly Effective Programmers (ft. ex-Google TechLead) - https://www.youtube.com/watch?v=W8ykZNSLDqE (Apr 13, 2020)
+00:11:02 Why coding isn't enough. - https://www.youtube.com/watch?v=yzhnRt6ZDKM (Apr 13, 2020)
+00:08:09 My dude is only making $2.50 an hour after prison & child support - https://www.youtube.com/watch?v=584C-edXarE (Apr 13, 2020)
+00:16:59 PHP in 2019 - Let's talk about it - https://www.youtube.com/watch?v=gWjofpeBUU4 (Apr 14, 2020)
+01:11:49 25 Years of PHP (by the Creator of PHP) - https://www.youtube.com/watch?v=wCZ5TJCBWMg (Apr 14, 2020)
+00:47:17 Simplicity Is Not Simple - https://www.youtube.com/watch?v=RJU_3FWKP8U (Apr 14, 2020)
+00:10:58 Why Diversity is toxic (as an ex-Google tech lead) - https://www.youtube.com/watch?v=pizXzR7ZQ8Q (Apr 14, 2020)
+00:12:33 Why do big Companies use Java, and NOT PHP? - https://www.youtube.com/watch?v=EQndMLuDDCs (Apr 14, 2020)
+00:19:43 PHP vs. Python - My Take... - https://www.youtube.com/watch?v=M8Lxu7miiyk (Apr 14, 2020)
+00:10:46 Top 10 Algorithms for the Coding Interview (for software engineers) - https://www.youtube.com/watch?v=r1MXwyiGi_U (Apr 14, 2020)
+00:14:31 Top 10 Algorithms for the Coding Interview (Part 2) - https://www.youtube.com/watch?v=zHczhZn-z30 (Apr 14, 2020)
+00:09:09 5 Things I Wish I Knew Before Starting Programming - https://www.youtube.com/watch?v=3NndCfFQNHA (Apr 15, 2020)
+00:09:00 5 Front End Interview Questions That Every NEW Developer Should Know - https://www.youtube.com/watch?v=z6cvj6cMIr0&t=307s (Apr 16, 2020)
+
+05:16:12 Learn the MERN Stack - https://www.youtube.com/playlist?list=PLillGF-RfqbbiTGgA77tGO426V3hRF9iE
+
+
+NEXT UP
+
+00:26:45 React & Express Starter Pack For Full Stack Development - https://www.youtube.com/watch?v=v0t42xBIYIs
+02:25:26 React Tutorial - Learn React - React Crash Course [2019] - https://www.youtube.com/watch?v=Ke90Tje7VS0
+00:58:39 Express.js Tutorial: Build RESTful APIs with Node and Express | Mosh - https://www.youtube.com/watch?v=pKd0Rpw7O48
+
+
+00:10:12 What is DOM - https://www.youtube.com/watch?v=XD7fYLQeQIg
+00:16:01 React Interview Questions and answers | Top Commonly Asked | Part -1 - https://www.youtube.com/watch?v=uRkS5Dqf8ic
+00:10:03 5 Jr. React Developer Interview Questions! 2018 - https://www.youtube.com/watch?v=fimT15Iu7jg 
+00:21:00 Tricky JavaScript interview questions and answers - https://www.youtube.com/watch?v=QCQVttjblRs 
+00:12:10 Top 10 JavaScript Interview Questions - https://www.youtube.com/watch?v=oxoFVqetl1E
+00:14:45 Top 10 css interview questions and answers - https://www.youtube.com/watch?v=ZohZS6xLYE4
+00:27:56 React - Common Questions (and Answers!) - https://www.youtube.com/watch?v=XI27nSXSrYs
+00:06:48 5 Projects That will Guarantee You Get Hired | #CodingPhase - https://www.youtube.com/watch?v=3wa09yTuEWU
+00:11:19 5 Backend Frameworks That Will Guarantee You Get Hired | Web Developer - https://www.youtube.com/watch?v=xwLggFuYb40
+00:17:18 This Web Developer Portfolio Makes Every Other Look Like Sh!T | Software Developer | Review - https://www.youtube.com/watch?v=MeheYuRDt_o
+00:15:10 Epic Web Developer Portfolio Review 5 Star Portfolio..- https://www.youtube.com/watch?v=D-FgDCiknIY
+00:30:39 GSAP Animation Tutorial | Create Awesome Animations With Javascript - https://www.youtube.com/watch?v=5RyrIPCs47A
+00:13:26 JavaScript Algorithms and Data Structures Certification Review | FreeCodeCamp Certification - https://www.youtube.com/watch?v=4K9xdbaAU_k
+00:11:11 Top Algorithms for the Coding Interview (for software engineers) - https://www.youtube.com/watch?v=PnnsDf3zEMw
+00:56:47 105 STL Algorithms in Less Than an Hour - https://www.youtube.com/watch?v=bFSnXNIsK4A
+00:33:55 100 Algorithms Challenge NEW COURSE!!! How to Ace the JavaScript Coding Interview | Live Stream - https://www.youtube.com/watch?v=HZj62D-kACI
+xx:xx:xx Apigee API Management Platform Tutorials - Beginner to Advanced API Management - https://www.youtube.com/playlist?list=PLsWqc60hQz4e-dV4sXOmmqAdB_JIfpl2M
+00:09:35 VS Code Top-Ten Pro Tips - https://www.youtube.com/watch?v=u21W_tfPVrY
+00:18:58 10 Bad Habits To Avoid As A Developer - https://www.youtube.com/watch?v=BQGxEn9oWxc
+00:16:10 My Struggles & Success - Up Close & Personal With Brad - https://www.youtube.com/watch?v=zA9krklwADI
+00:15:15 Self Doubt In Programming & Web Development - https://www.youtube.com/watch?v=sard25VQ2HU
+00:18:27 Finding A Web Developer Job With No Experience - https://www.youtube.com/watch?v=ebJ0XBOjowo
+00:11:52 Choosing the best mobile app framework - https://www.youtube.com/watch?v=4m7msadL5iA
+00:19:52 Freelancing As A Web Developer - https://www.youtube.com/watch?v=m2N3tmJ_A0Q
+00:10:19 Tips On Learning How To Code - https://www.youtube.com/watch?v=0wHyoBPc6zs
+00:28:10 Concerns & Struggles Of A Web Developer - https://www.youtube.com/watch?v=SKHXYeowAIM
+00:16:28 How to Become a Better Web Developer - My Thoughts - https://www.youtube.com/watch?v=H7X25hZ1Pq8
+00:12:58 8 Tips To Increase Developer Productivity - https://www.youtube.com/watch?v=HSwjGP19rTg
+00:19:03 Starting A Serious Web Development Project - https://www.youtube.com/watch?v=gGGPTskb7c8
+00:23:24 Problems & Solutions In The Life Of A Programmer - https://www.youtube.com/watch?v=iiT4u9KvTek
+00:16:15 Top 10 Tips For New Vue.js Developers - https://www.youtube.com/watch?v=ccVrP6hSW8o
+00:15:11 What are microservices really - https://www.youtube.com/watch?v=j1gU2oGFayY
+00:15:37 Understanding Synchronous vs Asynchronous JavaScript - https://www.youtube.com/watch?v=Q-Zmc0E0GYY
+00:11:05 Proxy vs. Reverse Proxy (Explained by Example) - https://www.youtube.com/watch?v=ozhe__GdWC8
+00:14:14 Examples of Stateful vs Stateless web applications with Python - https://www.youtube.com/watch?v=nhwZn6v5vT0
+00:09:05 When Should You Use Gatsby? - GatsbyJSm Next.js and CRA - https://www.youtube.com/watch?v=VoscwJ6MGsU
+00:12:01 SOAP vs REST: Which one is better? or do we need to compare them? - https://www.youtube.com/watch?v=T_pXujns3qk
+00:42:02 NPM Crash Course - https://www.youtube.com/watch?v=jHDhaSSKmB0
+00:22:42 Yarn Package Manager Crash Course - https://www.youtube.com/watch?v=g9_6KmiBISk
+00:42:19 Axios Crash Course | HTTP Library - https://www.youtube.com/watch?v=6LyagkoRWYA
+01:09:22 Redux Crash Course With React - https://www.youtube.com/watch?v=93p3LxR9xfM&t=1148s
+00:49:40 Build an Expense Tracker | React Hooks & Context API - https://www.youtube.com/watch?v=XuFDcZABiDQ
+00:54:13 React App with Context API and React Hooks / Build a Task Manager using React / Context API / Hooks - https://www.youtube.com/watch?v=fqup-BL3VjI
+00:20:49 Introducing React Hooks - https://www.youtube.com/watch?v=mxK8b99iJTg
+00:31:31 React Context vs Redux - Who wins? - https://www.youtube.com/watch?v=OvM4hIxrqAw
+00:35:23 Webpack Crash Course - https://www.youtube.com/watch?v=lziuNMk_8eQ
+00:29:53 Use Babel & Webpack To Compile ES2015 - ES2017 - https://www.youtube.com/watch?v=iWUR04B42Hc
+00:16:12 Why We Should Ditch React - https://www.youtube.com/watch?v=iRo18pUs61Q
+00:14:52 What Is JWT and Why Should You Use JWT - https://www.youtube.com/watch?v=7Q17ubqLfaM
+00:06:37 What is THIS in JavaScript? in 100 seconds - https://www.youtube.com/watch?v=YOlr79NaAtQ
+00:10:53 JavaScript: How It's Made - https://www.youtube.com/watch?v=FSs_JYwnAdI
+01:52:02 What Does It Take To Be An Expert At Python? - https://www.youtube.com/watch?v=7lmCu8wz8ro
+00:28:31 Answering Tricky JS Interview Questions - https://www.youtube.com/watch?v=MY0UBGX2FtA
+00:49:40 Build an Expense Tracker | React Hooks & Context API - https://www.youtube.com/watch?v=XuFDcZABiDQ
+00:23:00 Node.js API Authentication With JWT - https://www.youtube.com/watch?v=7nafaH9SddU
+00:39:58 Node.js Rest API With Restify, Mongoose, JWT - Part 1 - https://www.youtube.com/watch?v=bqn-sx0v-l0
+00:41:15 Node.js Rest API With Restify, Mongoose, JWT - Part 2 - https://www.youtube.com/watch?v=oyYOobBuczM
+01:24:56 Node.js With Passport Authentication | Full Project - https://www.youtube.com/watch?v=6FOq4cUdH8k
+04:43:54 Full Stack React & Django- Express JS Crash Course - https://www.youtube.com/watch?v=L72fhGm1tfE - https://www.youtube.com/watch?v=bqn-sx0v-l0
+01:11:15 Python Django Crash Course - https://www.youtube.com/watch?v=e1IyzVyrLSU
+00:39:34 Redis Crash Course Tutorial - https://www.youtube.com/watch?v=Hbt56gFj998
+00:37:42 Redis Crash Course - https://www.youtube.com/watch?v=sVCZo5B8ghE
+00:33:09 React Router Tutorial | React For Beginners - https://www.youtube.com/watch?v=Law7wfdg_ls
+00:12:46 3 reasons you should AVOID Udemy projects in your portfolio - https://www.youtube.com/watch?v=pmYLmF5EmUw
+01:04:33 Gatsby JS Crash Course - https://www.youtube.com/watch?v=6YhqQ2ZW1sc
+00:40:44 JSON and AJAX Tutorial: With Real Examples - https://www.youtube.com/watch?v=rJesac0_Ftw
+00:24:49 JSON Crash Course - https://www.youtube.com/watch?v=wI1CWzNtE-M
+00:47:22 Web Security 2019 - https://www.youtube.com/watch?v=-DNNlBYIyxQ
+
+00:06:50 Microsoft Teams - Best Features - https://www.youtube.com/watch?v=_Cw9uXfgTLQ
+00:19:30 SharePoint vs. Microsoft Teams - https://www.youtube.com/watch?v=BnH3Gq3pPPA
+00:03:15 SharePoint vs. OneDrive: What's the Difference? | Tech Talk - https://www.youtube.com/watch?v=_N_6GgZLIog
+00:50:27 SharePoint Online Beginner - https://www.youtube.com/watch?v=RmQylg5_WSY
+01:30:12 SharePoint Online Intermediate - https://www.youtube.com/watch?v=2RVVwjQOsT4
+00:47:25 SharePoint Online Advanced - https://www.youtube.com/watch?v=UpmD9krpThA
+00:16:34 Data Structures & Algorithms #1 - What Are Data Structures? - https://www.youtube.com/watch?v=bum_19loj9A
+08:03:16 Data Structures Easy to Advanced Course - Full Tutorial from a Google Engineer - https://www.youtube.com/watch?v=RBSGKlAvoiM&t=2735s
+
+
+LECTURES
+01:02:16 OAuth 2.0 and OpenID Connect (in plain English) - https://www.youtube.com/watch?v=996OiexHze0&t=1228s
+00:49:34 Elasticsearch in an Hour - https://www.youtube.com/watch?v=UPkqFvjN-yI
+00:38:41 Elasticsearch Tutorial | Getting Started with Elasticsearch | ELK Stack Training | Edureka - https://www.youtube.com/watch?v=1EnvkPf7t6Y
+00:41:41 GOTO 2019 • "Good Enough" Architecture • Stefan Tilkov - https://www.youtube.com/watch?v=PzEox3szeRc
+00:50:00 Four Distributed Systems Architectural Patterns by Tim Berglund - https://www.youtube.com/watch?v=tpspO9K28PM
+00:43:07 10 Tips for failing badly at Microservices by David Schmitz - https://www.youtube.com/watch?v=X0tjziAQfNQ
+00:28:57 Microservices: How To Build Systems That Survive - https://www.youtube.com/watch?v=rNQR1HqfEl0
+00:45:26 Avoiding Microservice Megadisasters - Jimmy Bogard - https://www.youtube.com/watch?v=gfh-VCTwMw8&t=6s
+00:48:29 Design Microservice Architectures the Right Way - https://www.youtube.com/watch?v=j6ow-UemzBc
+00:53:13 Mastering Chaos - A Netflix Guide to Microservices - https://www.youtube.com/watch?v=CZ3wIuvmHeM
+00:56:12 Principles Of Microservices by Sam Newman - https://www.youtube.com/watch?v=PFQnNFe27kU
+00:39:26 Microservices + Events + Docker = A Perfect Trio - https://www.youtube.com/watch?v=sSm2dRarhPo
+01:07:12 GraphQL, Simplified (GraphQL-hooks Workshop) - https://www.youtube.com/watch?v=F-2aqz2OL8g
+
+
+00:48:43 What is API? - Application Programming Interface - Part-1 - https://www.youtube.com/watch?v=LUbBkiIhrE4
+00:59:25 Introduction of Restful API Design - WebServices Automation - Part-2 - https://www.youtube.com/watch?v=Vnx2uBtn_bQ
+00:52:10 Automate Rest GET Call using HTTP Client - Rest API Automation - Part-3 - https://www.youtube.com/watch?v=qwc5A55MIYU
+00:50:25 Rest API GET Call using HTTP Client || Validate JSON Response - Rest API Automation - Part-4 - https://www.youtube.com/watch?v=mcUpHffY47A
+
+04:21:13 https://www.youtube.com/playlist?list=PLillGF-RfqbbRA-CIUxlxkUpbq0IFkX60 - Full Stack React & Django
+00:49:47 Introduction to Apache Kafka by James Ward - https://www.youtube.com/watch?v=UEg40Te8pnE
+TypeScript Course for Beginners 2020 - Learn TypeScript from Scratch! - https://www.youtube.com/watch?v=BwuLxPH8IDs
+Node JS Full Course - Learn Node.js in 7 Hours | Node.js Tutorial for Beginners | Edureka - https://www.youtube.com/watch?v=JnvKXcSI7yk
+Vue.js in 2019 & Beyond - https://www.youtube.com/watch?v=SC74AXdOCh4
+Future of React.js: https://youtu.be/XWfHTLm6ECQ
+Future of Angular: https://youtu.be/Dk6sphzmKO8
+What is all the Fuss About Python? - https://www.youtube.com/watch?v=b7WxO4ipnh0
+Design Principles of Vue 3.0 by Evan You - https://www.youtube.com/watch?v=WLpLYhnGqPA
+Vue 3 & A First Look at the Compostion API - https://www.youtube.com/watch?v=V-xK3sbc7xI
+What the heck is the event loop anytway? | Philip Roberts - https://www.youtube.com/watch?v=8aGhZQkoFbQ
+Stop Writing Classes - https://www.youtube.com/watch?v=o9pEzgHorH0
+Linux File System/Structure Explained - https://www.youtube.com/watch?v=HbgzrKJvDRw
+Vuex Explained Visually by Adam Jahr - https://www.youtube.com/watch?v=wbp_ro-eWwQ
+Introduction to Microservices, Docker and Kubernetes - https://www.youtube.com/watch?v=1xo-0gCVhTU
+Mastering Vue.js and Vuex - https://www.youtube.com/watch?v=b-wIMYfDYWI
+Vue 3 Composition and API by Alex Kyriakidis - https://www.youtube.com/watch?v=ysnbEVkvgm4
+10 Python Tips and Tricks for Writing Better Code - https://www.youtube.com/watch?v=C-gEQdGVXbk
+Evan You - What's Coming in Vue 3.0 - https://www.youtube.com/watch?v=E43SqPADf3k
+Deconstructing React || Tejas Kumar - https://www.youtube.com/watch?v=f2mMOiCSj5c
+Four Distributed Systemss Architechtural Patters by Tim Berglund - https://www.youtube.com/watch?v=tpspO9K28PM
+Why the Vue 3 Composition API? https://www.youtube.com/watch?v=6HUjDKVn0e0
+Vue JS Crash Course - https://www.youtube.com/watch?v=Wy9q22isx3U
+How to Think Like a Programmer - https://www.youtube.com/watch?v=azcrPFhaY9k
+JavaScript - Understanding the Weird Parts - The First 3.5 Hours - https://www.youtube.com/watch?v=Bv_5Zv5c-Ts&t=16s
+React TUtorial - Learn React - React Crash Course [2019] - https://www.youtube.com/watch?v=8jOVi4fRSKo
+Git MERGE vs REBASE - https://i.ytimg.com/an_webp/CRlGDDprdOQ/mqdefault_6s.webp?du=3000&sqp=CJiY9PMF&rs=AOn4CLBUyZfiTgmgO8m4Fhud3NEUOce7qw
+Vuex Crash Course | State Management - https://www.youtube.com/watch?v=5lVQgZzLMHc
+React Tutorial For Beginners - https://www.youtube.com/watch?v=dGcsHMXbSOA
+Front End Web Developer Guide - https://www.youtube.com/watch?v=sppSnBQVt0k
+Understanding TDD with Modern JavaScript - https://www.youtube.com/watch?v=oneGCBiPK_Q
+Enterprise Programming Tricks For Clean Code - https://www.youtube.com/watch?v=dC9vdQkU-xI
+Why Isn't Functional Programming the Norm? - https://www.youtube.com/watch?v=QyJZzq0v7Z4
+What Is Functional Programming - https://www.youtube.com/watch?v=KHojnWHemO0
+Fast Test, SLow Test - https://www.youtube.com/watch?v=RAxiiRPHS9k
+Stop Mocking, Start Testing - https://www.youtube.com/watch?v=Xu5EhKVZdV8
+"The CLean Code Talks" -- Unit Testing - https://www.youtube.com/watch?v=wEhu57pih5w
+Learn JSON in 10 Minutes - https://www.youtube.com/watch?v=iiADhChRriM
+Unit Tests in Python || Python Tutorial || Learn Python - https://www.youtube.com/watch?v=1Lfv5tUGsn8
+MySQL Tutorial for Beginners [2019] - Full Course - https://www.youtube.com/watch?v=7S_tz1z_5bA
+Keynote: My Path to Becoming a Python Core Developer - https://www.youtube.com/watch?v=rOzUMQW4p0Y 
+System Design Interview Question: DESIGN A PARKING LOT - https://www.youtube.com/watch?v=DSGsa0pu8-k
+Mock Google Interview (for Software Engineer job) - coding and algorithms tips - https://www.youtube.com/watch?v=IWvbPIYQPFM
+WHAT A REAL GOOGLE INTERVIEW IS LIKE - THE FIRST STEP - https://www.youtube.com/watch?v=wVTIJBNBYoM
+How I LEarned to Code in 6 Months - And I Got Into Google - https://www.youtube.com/watch?v=3IlaxZf3-s8
+Episode 06: Intro to Architecture and Systems Design Interviews - https://www.youtube.com/watch?v=3IlaxZf3-s8
+How I Passed Coding Interviews ar Facebook, Google, Lyft, Bloomberg - https://www.youtube.com/watch?v=lDTKnzrX6qU
+DATA STRUCTURES you MUST know (as a Software Developer) - https://www.youtube.com/watch?v=sVxBVvlnJsM
+The Future of JavaScript - New Features and Disruptive Trends in 2020 - https://www.youtube.com/watch?v=sVxBVvlnJsM
+
+
+Firebase Auth Tutorial #5 - Creating New User - https://www.youtube.com/watch?v=wkdCpktUfGg&list=PL4cUxeGkcC9jUPIes_B8vRjn1_GaplOPQ&index=5
+Angular Tutorial for Beginners: Learn ANgular from Scratch | Mosh - https://www.youtube.com/watch?v=k5E2AVpwsko
+Moving Existing API from REST to GraphQL - https://www.youtube.com/watch?v=broQmxQAMjM
+JavaScript Tutorial for Beginners: Learn JavaScript in 1 Hour [2019] - https://www.youtube.com/watch?v=W6NZfCO5SIk
+Natural Language Processing in Python - https://www.youtube.com/watch?v=xvqsFTUsOmc
+Object-oriented Programming in JavaScript: Made Super Simple | Mosh - https://www.youtube.com/watch?v=PFmuCDHHpwk
+Predicting the Future of Web Development (2020 and 2025) - https://www.youtube.com/watch?v=24tQRwIRP_w
+What I Learned Doing 250 Inverviews as Google - MOishe Lettvin - https://www.youtube.com/watch?v=r8RxkpUvxK0
+4 Programming Paradigms In 40 Minutes - https://www.youtube.com/watch?v=cgVVZMfLjEI&t=5s
+Objectionable Content (Python Object Model) || James Powell - https://www.youtube.com/watch?v=AmHE0kZhLIQ
+Should You Use Kubernetes and Docker in YOur Next Project - https://www.youtube.com/watch?v=u8dW8DrcSmo
+Python OOP Tutorial 1: Classes and Instances - https://www.youtube.com/watch?v=ZDa-Z5JzLYM
+Build a Python App That Tracks Amazon Prices! - https://www.youtube.com/watch?v=Bg9r_yLk7VY
+What Does Programming Look Like in 10 Years? - https://www.youtube.com/watch?v=zQo4jUVWI_I
+James Powell: Does Code Quality Really Matter? - https://www.youtube.com/watch?v=QuTmLeWL3C0
+Machine Learning For Software Developers - https://www.youtube.com/watch?v=RT9srhpVF9s
+Python Tutorial for Programmers - Python Crash Course - https://www.youtube.com/watch?v=f79MRyMsjrQ
+Learn JavaScript - Full Course for Beginners - https://www.youtube.com/watch?v=PkZNo7MFNFg
+Python Tutorial: Unit Tesing Your Code with unittest Module - https://www.youtube.com/watch?v=6tNS--WetLI
+Python's Class Development Toolkit - https://www.youtube.com/watch?v=HTLu2DFOdTg
+A hands-on introduction to Pytthon for beginning programmers - https://www.youtube.com/watch?v=rkx5_MRAV3A
+HOW TO PROGRAM - https://www.youtube.com/watch?v=KNjiKbSSlCM
+Network Sevurity 101: Full Workshop - https://www.youtube.com/watch?v=E03gh1huvW4
+APIs for Beginners - How to use and API (Full Course) - https://www.youtube.com/watch?v=GZvSYJDk-us
+Preparing for a Python Interview: 10 Things You Should Know - https://www.youtube.com/watch?v=DEwgZNC-KyE
+Python - 2019 Action plan to learn it - Step by step - https://www.youtube.com/watch?v=7UeRnuGo-pg
+What Can you Do with Python? - The 3 Main Applications - https://www.youtube.com/watch?v=kLZuut1fYzQ
+Python Tutorial: if __name__ == '__main__' - https://www.youtube.com/watch?v=kLZuut1fYzQ
+Python Classes and Objects || Python Tutorial || Learn Python Programming - https://www.youtube.com/watch?v=apACNr7DC_s
+Python Tutorial for Beginners [Full Course] Learn Python for Web Development - https://www.youtube.com/watch?v=_uQrJ0TkZlc
+"Uncle Bob Martin" - "The Future of Programming" - https://www.youtube.com/watch?v=ecIWPzGEbFc
+5 Python trick that will improve your life - https://www.youtube.com/watch?v=5tcs2qXP3Pg
+Transforming Code into Beautiful, Idiomatic Python - https://www.youtube.com/watch?v=OSGv2VnC0go
+The Weird History of JavaScript - https://www.youtube.com/watch?v=Sh6lK57Cuk4
+GOTO 2015 - Why Scaling Agile Doesn't Work - Jez Humble - https://www.youtube.com/watch?v=2zYxWEZ0gYg
+Why the Next Five Years Will Be About Languages - https://www.youtube.com/watch?v=9vc-I9rvGsw
+A Brief History of JavaScript by the Creator of JavaScript - https://www.youtube.com/watch?v=3-9fnjzmXWA
+Killer Docker Workflows for Development - https://www.youtube.com/watch?v=EfpVgKtqZVw
+JavaScript Pro Tips - Code This, NOT That - https://www.youtube.com/watch?v=Mus_vwhTCq0
+The Art of Coding - Bylan Beattie - https://www.youtube.com/watch?v=6avJHaC3C2U
+TypeScript - The Basics - https://www.youtube.com/watch?v=ahCwqrYpIuM
+Design Microservice Architectures the Right Way - https://www.youtube.com/watch?v=j6ow-UemzBc
+Learning Functional Programming with JavaScript - Anjana Vakil - JSUnconf -  https://www.youtube.com/watch?v=e-5obm1G_FY&t=367s
+10 Tips for Clean Code - https://www.youtube.com/watch?v=UjhX2sVf0eg
+Object Oriented Programming vs Functional with TypeScript - https://www.youtube.com/watch?v=fsVL_xrYO0w
+The JavaScript Survival Guide - https://www.youtube.com/watch?v=9emXNzqCKyg
+The mind behind Linux - Linus Torvalds - https://www.youtube.com/watch?v=o8NPllzkFhE
+Top 5 JavaScript Things Your Should Know! - https://www.youtube.com/watch?v=v0QTqHXiVNw
+The Async Await Episode | Promise - https://www.youtube.com/watch?v=vn3tm0quoqE
+Introduction to Microservices, Docker, and Kubernetes - https://www.youtube.com/watch?v=1xo-0gCVhTU
+20 Years of Product Management in 25 Minutes by Dave Wascha - https://www.youtube.com/watch?v=i69U0lvi89c
+78 Amazing Developer Tools that you're not using yet - https://www.youtube.com/watch?v=U_gANjtv28g
+Running an SQL Injection Attack - Computerphile - https://www.youtube.com/watch?v=ciNHn38EyRc
+Git It? How to use Git and Github - https://www.youtube.com/watch?v=HkdAHXoRtos
+What are microservies really all about? Microservices Basics Tutorial - https://www.youtube.com/watch?v=j1gU2oGFayY
+The Why of Go - https://www.youtube.com/watch?v=bmZNaUcwBt4
+Cloud Computing in the Year 2020 - https://www.youtube.com/watch?v=1pBuwKwaHp0
+The Magic of TypeScript Decorators - https://www.youtube.com/watch?v=O6A-u_FoEX8
+How NOT to Store Password - Computerphile - https://www.youtube.com/watch?v=8ZtInClXe1Q
+CSS Grid Layout Crash Course - https://www.youtube.com/watch?v=jV8B24rSN5o
+YAML | In One Video - https://www.youtube.com/watch?v=cdLNKUoMc6c
+Butterfly Overflow Attack - Computerphile - https://www.youtube.com/watch?v=1S0aBV-Waeo
+Code Refactoring: Learn Code Smells And Level Up Your Game! - https://www.youtube.com/watch?v=D4auWwMsEnY
+Things I Was Unprepared For As A Lead Developer - https://www.youtube.com/watch?v=AwuqJ1qORag
+JavaScript Mock INterview | Online Questions and Answers - https://www.youtube.com/watch?v=OOC-ypVnHAY
+CSS Grid Changes EVERYTHING - Amazing Presentation - https://www.youtube.com/watch?v=7kVeCqQCxlk
+6 Things Your Junior Devs Don't Tell YOu https://www.youtube.com/watch?v=m6G8f9pZZRM
+Masterng Chaos - A Netflix Guide to Microservices - https://www.youtube.com/watch?v=CZ3wIuvmHeM
+Worst JavaScript Flaws That HJackers Love to Abuse - https://www.youtube.com/watch?v=0dgmeTy7X3I
+Discovering JavaScript - https://www.youtube.com/watch?v=ZUHyZHwZtUY
+Live Mock Technical Interview - JavaScript - https://www.youtube.com/watch?v=057Rs6CgJnY
+Live Mock Technical Interview - React & JavaScript - https://www.youtube.com/watch?v=UdiXLzBie9g
+Trickey JavaScript interview questions and answers - https://www.youtube.com/watch?v=QCQVttjblRs
+WebAssembly In Action - https://www.youtube.com/watch?v=DKHuEkmsx3M
+How To Write Secure JavaScript - https://www.youtube.com/watch?v=BeKMbTSm7x8
+Tricky JavaScript Interview Questions and Answers - https://www.youtube.com/watch?v=qsNxdukPc2U
+LAMBDA Functions: Powerful And Elegant Abstractions - https://www.youtube.com/watch?v=OLH3L285EiY
+How tro pass JavaScript interviews. Guide for Junior Developers - https://www.youtube.com/watch?v=nX0ajFKB2E0
+5 Interview Questions that every Frontend Web Developer Should Know - https://www.youtube.com/watch?v=0fFYacBQPbA
+The Frontend Is A Full Stack - https://www.youtube.com/watch?v=0c9OC9NBsro
+Top 10 JavaScript Interview Questions - https://www.youtube.com/watch?v=oxoFVqetl1E
+Top 10 css interview questions and answers - https://www.youtube.com/watch?v=ZohZS6xLYE4
+What a REAL web developer interview is like (Front End) - https://www.youtube.com/watch?v=S6lwJ6Rixnc
+Javascript Closure tutorial (Closures Explained) - https://www.youtube.com/watch?v=71AtaJpJHw0
+VS Code: Supercharge Your JavaScript Debuggin Workflow - https://www.youtube.com/watch?v=UcW1FHNvy8M
+NODE JS is EVERYWHERE - https://www.youtube.com/watch?v=NdISMdSDIaw
+JavaScript in Half an Hour (Without jQuery!) - https://www.youtube.com/watch?v=zPHerhks2Vg
+SQL vs NoSQL or MySQL vs MongoDB - https://www.youtube.com/watch?v=ZS_kXvOeQ5Y
+Object Oriented vs Functional Programming with TypeScript - https://www.youtube.com/watch?v=iRo18pUs61Q
+Learn Python - Full Course for Beginners [Tutorial] - https://www.youtube.com/watch?v=rfscVS0vtbw
+How I Learned to COde in Less Tahn2 Months - https://www.youtube.com/watch?v=0yqWD4Aqx2k
+Python Resume Projects - You Can Finish in a Weekend - https://www.youtube.com/watch?v=jl5yUEdekEM
+JavaScript Tutorial for Beginners - Full Course in 8 Hours [2020] - https://www.youtube.com/watch?v=Qqx_wzMmFeA
