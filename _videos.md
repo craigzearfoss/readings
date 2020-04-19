@@ -2,6 +2,7 @@
 
 ## WATCHED/COMPLETED
 
+- 00:34:55 [JavaScript Higher Order Functions & Arrays](https://www.youtube.com/watch?v=rRgD1yVwIvE) (Apr 19, 2020)
 - 00:11:16 [What is LDAP and Active Directory ? How LDAP works and what is the structure of LDAP/AD?](https://www.youtube.com/watch?v=QyhNaY5O468) (Apr 18, 2020)
 - 00:09:00 [5 Front End Interview Questions That Every NEW Developer Should Know](https://www.youtube.com/watch?v=z6cvj6cMIr0&t=307s) (Apr 16, 2020)
 - 00:09:09 [5 Things I Wish I Knew Before Starting Programming](https://www.youtube.com/watch?v=3NndCfFQNHA) (Apr 15, 2020)
