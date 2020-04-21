@@ -2,6 +2,7 @@
 
 ## WATCHED/COMPLETED
 
+- 00:08:00 [FUN PHP - Higher order functions](https://www.youtube.com/watch?v=sUJ8j2UR5kU) (Apr 20, 2020)
 - 00:34:55 [JavaScript Higher Order Functions & Arrays](https://www.youtube.com/watch?v=rRgD1yVwIvE) (Apr 19, 2020)
 - 00:11:16 [What is LDAP and Active Directory ? How LDAP works and what is the structure of LDAP/AD?](https://www.youtube.com/watch?v=QyhNaY5O468) (Apr 18, 2020)
 - 00:09:00 [5 Front End Interview Questions That Every NEW Developer Should Know](https://www.youtube.com/watch?v=z6cvj6cMIr0&t=307s) (Apr 16, 2020)
@@ -163,7 +164,7 @@
 
 ## LECTURES
 
-- 01:02:16 [OAuth 2.0 and OpenID Connect (in plain English)](https://www.youtube.com/watch?v=996OiexHze0&t=1228s)
+- 00:51:33 [Functional Programming in PHP](https://www.youtube.com/watch?v=LZh4_q04aKo)
 - 00:49:34 [Elasticsearch in an Hour](https://www.youtube.com/watch?v=UPkqFvjN-yI)
 - 00:38:41 [Elasticsearch Tutorial | Getting Started with Elasticsearch | ELK Stack Training | Edureka](https://www.youtube.com/watch?v=1EnvkPf7t6Y)
 - 00:41:41 [GOTO 2019 • "Good Enough" Architecture • Stefan Tilkov](https://www.youtube.com/watch?v=PzEox3szeRc)
