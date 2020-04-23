@@ -10,7 +10,7 @@
 ### 1. Get a good Linter set up.
 
 - [**ESLint**](https://eslint.org/)
-- [eslint-config-airbnb](https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb) is a great configuration.
+- [**eslint-config-airbnb**](https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb) is a great configuration.
 
 ### 2. User prop-types and default props.
 
@@ -37,4 +37,4 @@
 ### 8. Learn how React works.
 
 - Learn how the internals of React work.
-- A good resource is [React Internals by Matt Greer](https://www.mattgreer.org/articles/react-internals-part-one-basic-rendering/).
+- A good resource is [**React Internals by Matt Greer**](https://www.mattgreer.org/articles/react-internals-part-one-basic-rendering/).
