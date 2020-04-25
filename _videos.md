@@ -2,6 +2,7 @@
 
 ## WATCHED/COMPLETED
 
+- 00:11:05 [Top Eight JavaScript Objects And Array Functions You Should Know!](https://www.youtube.com/watch?v=Xal65C7pxVM) (Apr 25, 2020)
 - 00:27:56 [React - Common Questions (and Answers!)](https://www.youtube.com/watch?v=XI27nSXSrYs&t=9s) (Apr 24, 2020)
 - 00:20:03 [8 Tips for Getting Better at React](https://www.youtube.com/watch?v=BncMF2aTL0w) (Apr 23, 2020)
 - 00:08:00 [FUN PHP - Higher order functions](https://www.youtube.com/watch?v=sUJ8j2UR5kU) (Apr 20, 2020)
@@ -80,7 +81,6 @@
 ## NEXT UP
 
 - 00:00:00 [Performance Best Practices: Running and Monitoring Express.js in Production](https://sematext.com/blog/expressjs-best-practices/)
-- 00:11:05 [Top Eight JavaScript Objects And Array Functions You Should Know!](https://www.youtube.com/watch?v=Xal65C7pxVM)
 - 00:26:45 [React & Express Starter Pack For Full Stack Development](https://www.youtube.com/watch?v=v0t42xBIYIs)
 - 02:25:26 [React Tutorial - Learn React - React Crash Course [2019]](https://www.youtube.com/watch?v=Ke90Tje7VS0)
 - 00:58:39 [Express.js Tutorial: Build RESTful APIs with Node and Express | Mosh](https://www.youtube.com/watch?v=pKd0Rpw7O48)
