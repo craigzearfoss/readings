@@ -2,6 +2,8 @@
 
 ## WATCHED/COMPLETED
 
+- 00:27:56 [React - Common Questions (and Answers!)](https://www.youtube.com/watch?v=XI27nSXSrYs&t=9s) (Apr 24, 2020)
+- 00:20:03 [8 Tips for Getting Better at React](https://www.youtube.com/watch?v=BncMF2aTL0w) (Apr 23, 2020)
 - 00:08:00 [FUN PHP - Higher order functions](https://www.youtube.com/watch?v=sUJ8j2UR5kU) (Apr 20, 2020)
 - 00:34:55 [JavaScript Higher Order Functions & Arrays](https://www.youtube.com/watch?v=rRgD1yVwIvE) (Apr 19, 2020)
 - 00:11:16 [What is LDAP and Active Directory ? How LDAP works and what is the structure of LDAP/AD?](https://www.youtube.com/watch?v=QyhNaY5O468) (Apr 18, 2020)
@@ -18,6 +20,7 @@
 - 00:14:31 [Top 10 Algorithms for the Coding Interview (Part 2)](https://www.youtube.com/watch?v=zHczhZn-z30) (Apr 14, 2020)
 - 00:12:33 [7 Habits of Highly Effective Programmers (ft. ex-Google TechLead)](https://www.youtube.com/watch?v=W8ykZNSLDqE) (Apr 13, 2020)
 - 00:11:02 [Why coding isn't enough.](https://www.youtube.com/watch?v=yzhnRt6ZDKM) (Apr 13, 2020)
+- 00:00:00 [9 Open Source CSS Frameworks for Frontend Web Development](https://opensource.com/article/20/4/open-source-css-frameworks) (Apr 13, 2020)
 - 00:08:09 [My dude is only making \$2.50 an hour after prison & child support](https://www.youtube.com/watch?v=584C-edXarE) (Apr 13, 2020)
 - 00:16:35 [How I really feel about Traversy Media](https://www.youtube.com/watch?v=iq5nGFzqDbY) (Apr 12, 2020)
 - 00:09:10 [Re: Chris Sean, CodingPhase, Traversy Media, Josh Fluke, Louis Rossmann](https://www.youtube.com/watch?v=YS30dd3EyCk) (Apr 12, 2020)
@@ -76,6 +79,7 @@
 
 ## NEXT UP
 
+- 00:00:00 [Performance Best Practices: Running and Monitoring Express.js in Production](https://sematext.com/blog/expressjs-best-practices/)
 - 00:11:05 [Top Eight JavaScript Objects And Array Functions You Should Know!](https://www.youtube.com/watch?v=Xal65C7pxVM)
 - 00:26:45 [React & Express Starter Pack For Full Stack Development](https://www.youtube.com/watch?v=v0t42xBIYIs)
 - 02:25:26 [React Tutorial - Learn React - React Crash Course [2019]](https://www.youtube.com/watch?v=Ke90Tje7VS0)

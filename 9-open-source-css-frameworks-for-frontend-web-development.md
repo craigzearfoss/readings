@@ -1,11 +1,14 @@
-# 9 open source CSS frameworks for frontend web development
+# 9 Open Source CSS Frameworks for Frontend Web Development
+
 - Bryant Son (Red Hat, Correspondent)
 - [https://opensource.com/article/20/4/open-source-css-frameworks](https://opensource.com/article/20/4/open-source-css-frameworks)
 - Apr 13, 2020
 - Completed Apr 13, 2020
+
 ---
 
 ## Bootstrap
+
 - by Twitter
 - The most popular CSS framework
 - License: MIT
@@ -16,6 +19,7 @@
   - Can stitch together different components and layouts.
 
 ## PaternFly
+
 - by Red Hat
 - Open source framework primarily focused on enterprise application developers
 - License: MIT
@@ -25,6 +29,7 @@
   - Supports the ReactJS.
 
 ## Material Components for the Web
+
 - by Google
 - Open source framework
 - License: MIT
@@ -36,6 +41,7 @@
   - Has step-by-step tutorials with exercises for accomplishing different goals.
 
 ## Pure
+
 - by Yahoo
 - Lightweight open source framework
 - License: BSD
@@ -44,6 +50,7 @@
   - Offers plenty of the components.
 
 ## Foundation
+
 - by Zurb
 - Frontend framework
 - License: MIT
@@ -53,6 +60,7 @@
   - Provides advanced features and tutorials.
 
 ## Bulma
+
 - Modern CSS framework based on Flexbox
 - License: MIT
 - [https://bulma.io/](https://bulma.io/)
@@ -62,6 +70,7 @@
   - Has a number of web components.
 
 ## Skeleton
+
 - Lightweight CSS framework
 - License: MIT
 - [http://getskeleton.com/](http://getskeleton.com/)
@@ -71,6 +80,7 @@
   - Has detailed documentation.
 
 ## Materialize
+
 - CSS framework based on Google's Material Design
 - License: MIT
 - [https://materializecss.com/](https://materializecss.com/)
@@ -80,9 +90,9 @@
   - Components page includes buttons, cards, navigations, and more.
 
 ## Bootflat
+
 - Open source Flat UI kit based on Bootstrap 3.3.0
 - License: MIT
 - [http://bootflat.github.io/](http://bootflat.github.io/)
 - Features:
   - Simpler than Bootstrap, with lighter-weight framework components.
-
