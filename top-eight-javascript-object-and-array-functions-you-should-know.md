@@ -70,7 +70,7 @@ function isBiggerThan10(element, index, array) {
 [12, 5, 8, 1, 4].some(isBiggerThan10);  // true
 ```
 
-## 6. Object.values(), Object.keys(), Object.entries()
+## 6, 7, 8. Object.values(), Object.keys(), Object.entries()
 
 - These methods make it easy to grabs values out of an object.
 
@@ -85,5 +85,3 @@ console.log(Object.values(obj));   // console: ['bar', 42]
 const obj = { 'foo': 'bar', 'baz': 42 };
 console.log(Object.entries(obj));   // console: [['foo', 'bar', ['bar', 42]]
 ```
-
-## 7.
