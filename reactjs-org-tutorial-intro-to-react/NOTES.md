@@ -202,7 +202,7 @@ class Game extends React.Component {
 
 ### Unlike the array **push()**, the **concat()** method doesn’t mutate the original array, so we prefer it.
 
-### Warning: Each child in an array or iterator should have a unique “key” prop. Check the render method of “Game”.
+### Warning: Each child in an array or iterator should have a unique "key" prop.
 - Because React cannot know our intentions, we need to specify a key property.
 - It’s strongly recommended that you assign proper keys whenever you build dynamic lists. 
   - If no key is specified, React will present a warning and use the array index as a key by default.
