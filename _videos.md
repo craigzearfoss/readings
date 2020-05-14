@@ -2,6 +2,7 @@
 
 ## WATCHED/COMPLETED
 
+- 00:14:39 [What is Deno & Will it replace Node.js?](https://www.youtube.com/watch?v=3Vl8a3zYjiw) (May 14, 2020)
 - 00:11:05 [Top Eight JavaScript Objects And Array Functions You Should Know!](https://www.youtube.com/watch?v=Xal65C7pxVM) (Apr 25, 2020)
 - 00:27:56 [React - Common Questions (and Answers!)](https://www.youtube.com/watch?v=XI27nSXSrYs&t=9s) (Apr 24, 2020)
 - 00:20:03 [8 Tips for Getting Better at React](https://www.youtube.com/watch?v=BncMF2aTL0w) (Apr 23, 2020)
@@ -85,6 +86,7 @@
 - 02:25:26 [React Tutorial - Learn React - React Crash Course [2019]](https://www.youtube.com/watch?v=Ke90Tje7VS0)
 - 00:58:39 [Express.js Tutorial: Build RESTful APIs with Node and Express | Mosh](https://www.youtube.com/watch?v=pKd0Rpw7O48)
 
+- 00:56.05 [Ryan Dahl — Deno, a new way to JavaScript](https://www.youtube.com/watch?v=HjdJzNoT_qg)
 - 00:18:59 [Drag & Drop With Vanilla JS](https://www.youtube.com/watch?v=C22hQKE_32c)
 - 00:10:12 [What is DOM](https://www.youtube.com/watch?v=XD7fYLQeQIg)
 - 00:16:01 [React Interview Questions and answers | Top Commonly Asked | Part -1](https://www.youtube.com/watch?v=uRkS5Dqf8ic)
