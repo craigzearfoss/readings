@@ -1,7 +1,7 @@
 # VIDEOS
 
 ## WATCHED/COMPLETED
-
+- 00:09:04 [cookies vs localStorage vs sessionStorage - Beau teaches JavaScript](https://www.youtube.com/watch?v=AwicscsvGLg) (May 19,2020)
 - 00:14:39 [What is Deno & Will it replace Node.js?](https://www.youtube.com/watch?v=3Vl8a3zYjiw) (May 14, 2020)
 - 00:11:05 [Top Eight JavaScript Objects And Array Functions You Should Know!](https://www.youtube.com/watch?v=Xal65C7pxVM) (Apr 25, 2020)
 - 00:27:56 [React - Common Questions (and Answers!)](https://www.youtube.com/watch?v=XI27nSXSrYs&t=9s) (Apr 24, 2020)
